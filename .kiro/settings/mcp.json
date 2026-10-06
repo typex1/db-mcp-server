@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "strands-agents": {
+      "command": "uvx",
+      "args": ["--with", "mcp<2", "strands-agents-mcp-server"],
+      "disabled": false,
+      "autoApprove": ["search_docs", "fetch_doc"]
+    }
+  }
+}
