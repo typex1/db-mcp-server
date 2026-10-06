@@ -1,0 +1,11 @@
+# Pinned to the versions this clone was verified against (mcp 2.x API).
+# Keep in sync with pyproject.toml.
+mcp==2.3.0
+httpx==0.28.1
+xmltodict==1.0.4
+pydantic==2.13.5
+python-dotenv==1.2.4
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+google-cloud-secret-manager==2.31.0
+Authlib==1.8.0
