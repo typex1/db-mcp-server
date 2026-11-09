@@ -142,6 +142,8 @@ Note the pinned versions in `requirements.txt`: an unpinned `pip install mcp` wo
 
 ```bash
 uv run --directory /ABSOLUTE/PATH/TO/db-mcp-server main.py
+```
+```
 # or on another port:
 PORT=8081 uv run --directory /ABSOLUTE/PATH/TO/db-mcp-server main.py
 ```
